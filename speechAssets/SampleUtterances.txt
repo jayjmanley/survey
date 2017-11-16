@@ -1,0 +1,6 @@
+AMAZON.HelpIntent Tell me more about this skill
+
+LaunchIntent Start the survey 
+LaunchIntent Launch
+
+QuestionIntent Question

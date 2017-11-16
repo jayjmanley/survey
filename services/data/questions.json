@@ -1,0 +1,9 @@
+{
+    "questions": [
+        "How often do you type your password(s) a day?",
+        "Is it ever inconvenient for you to type your password(s)?",
+        "If you had to use another authentication method, what would you use?",
+        "On a scale of 1-7, how convenient is it for you to enter your password(s)?",
+        "Do you have any upper limb movement problems?"
+    ]
+}
